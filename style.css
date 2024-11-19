@@ -139,7 +139,7 @@ a.giftcards{
 }
 /* hero-section */
 .hero-section{
-    background-image:url('images/hero-img.jpg');
+    background-image:url('hero-img.jpg');
     height:350px;
     background-size: cover;
     display: flex;
